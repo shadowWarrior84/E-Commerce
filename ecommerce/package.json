@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "react-stripe-checkout": "^2.6.3",
+    "redux-persist": "^6.0.0"
+  }
+}
